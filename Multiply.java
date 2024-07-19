@@ -4,7 +4,7 @@ class Multiply
 	public static void main(String s[])
 		{
 	
-			System.out.println("hi");
+			Sytem.out.println("hello");
 		}
 	
 }
